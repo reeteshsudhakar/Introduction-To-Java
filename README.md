@@ -28,7 +28,7 @@ Java for Absolute Beginners is designed for those who have no previous experienc
   * Those who want concepts explained to them in a clear and logical way
 ## Certification
 Upon completion of the 100+ lectures, quizzes, and other course material, I received a certification from Udemy. This is a great addition to 
-your portfolio, and can be included extremely easy, as Udemy provides the Certification ID and link to the certificate easily. 
+your portfolio, and can be included extremely easy, as Udemy provides the Certification ID and link to the certificate in the education module. 
 You can see my certificate **[here](https://udemy-certificate.s3.amazonaws.com/pdf/UC-2884d430-a92a-4bab-a309-0d00f47dbe8a.pdf)**.
 
 ![Alt Text](https://about.udemy.com/wp-content/uploads/2021/10/TURBO-ANIMATION-CONCEPT.gif)
